@@ -13,6 +13,7 @@ Test Teardown    End Test
 
 *** Test Cases ***
 Receber pedido de reserva
+    [Tags]  todo
     Dado que estou logado como "papito@gmail.com"
     E tenho anúncios cadastrados
     Quando o "joão@gmail.com" solicita uma reserva para o meu anúncio
