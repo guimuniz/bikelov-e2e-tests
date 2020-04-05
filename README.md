@@ -11,6 +11,6 @@
 
 This project uses these technologies:
 
-- <strong> RobotFramework </strong>
+- <strong> Robot Framework </strong>
 - <strong> Selenium WebDriver </strong>
 - <strong> Python </strong>
