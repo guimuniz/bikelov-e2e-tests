@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Bikelov" title="logo" src="resources/images/bikelov_logo.svg" width="250px"
+    <img alt="Bikelov" title="logo" src="resources/images/bikelov.png" width="250px"
     style="background-color:black;"/>
 </h1>
 
