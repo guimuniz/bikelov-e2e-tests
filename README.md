@@ -11,6 +11,6 @@
 
 This project uses these technologies:
 
-- <strong> Node.js </strong>
-- <strong> HTML </strong>
-- <strong> CSS </strong>
+- <strong> RobotFramework </strong>
+- <strong> Selenium WebDriver </strong>
+- <strong> Python </strong>
