@@ -1,7 +1,7 @@
 pipeline {
    agent {
        docker {
-           image 'qaninja/pywd'
+           image 'guimuniz/pywd'
        }
    }
 
