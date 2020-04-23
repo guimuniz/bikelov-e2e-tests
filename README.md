@@ -14,3 +14,5 @@ This project uses these technologies:
 - <strong> Robot Framework </strong>
 - <strong> Selenium WebDriver </strong>
 - <strong> Python </strong>
+- <strong> Docker </strong>
+- <strong> Jenkins </strong>
